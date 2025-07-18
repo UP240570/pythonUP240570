@@ -75,7 +75,7 @@ def calcular_moda(lista):
     if len(modas) == 1:
         return modas[0]
     else:
-        return modas  # puede haber más de una moda
+        return modas
 
 
 #Rango
